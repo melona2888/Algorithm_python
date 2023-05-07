@@ -14,4 +14,6 @@ while True:
     res += 1
 
 res += (n-1)
+
+# Print Result
 print(res)
